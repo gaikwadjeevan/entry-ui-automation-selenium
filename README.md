@@ -27,11 +27,11 @@
 ## Running Tests in Pycharm
 - Run `pytest` from the command line to run all tests.
 - To see the console logs, user the `-v -s` option.
-- To run tests `go to the testCases dir`
+- To run tests go to the `testCases` dir
 - To run the test with chrome use `--browser` option with `chrome`
 - To run the test with chrome use `--browser` option with `firefox`
-- If not provided any `--browser` parameter it will launch by default with `Ie Browser`
-- To generate the test report use `--html` option with `(absolute_path)/reports/report.html`
+- If not provided `--browser` parameter it will launch by default with `Ie Browser`
+- To generate the HTML test reports use `--html` option with `(absolute_path)/reports/report.html`
 - Run tests with CLI arguments:
 
    - `pytest -v -s test_login.py --browser=chrome --html=<absolute_path>/reports/report.html`
