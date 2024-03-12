@@ -1,0 +1,28 @@
+2024-03-12 14:27:24.375 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 14:29:23.805 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 14:32:20.938 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 14:37:46.749 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 14:42:11.234 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 14:45:05.284 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 14:45:20.508 INFO test_login - test_login: ******* OrderLink TC is Passed ******
+2024-03-12 14:54:58.862 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 14:55:16.876 INFO test_login - test_login: ******* OrderLink TC is Passed ******
+2024-03-12 14:56:04.789 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 14:56:17.608 INFO test_login - test_login: ******* OrderLink TC is Passed ******
+2024-03-12 15:01:23.510 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 15:05:27.544 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 15:05:45.993 INFO test_login - test_login: ******* OrderLink TC is Passed ******
+2024-03-12 15:10:07.634 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 15:10:25.280 INFO test_login - test_login: ******* OrderLink TC is Passed ******
+2024-03-12 15:11:54.584 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 15:12:11.716 INFO test_login - test_login: ******* OrderLink TC is Passed ******
+2024-03-12 15:13:03.867 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 15:15:45.851 INFO test_login - test_login: ******* OrderLink TC is Passed ******
+2024-03-12 15:19:43.269 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 15:20:05.841 INFO test_login - test_login: ******* OrderLink TC is Passed ******
+2024-03-12 15:28:16.338 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 15:28:35.600 INFO test_login - test_login: ******* OrderLink Test Case is Failed ******
+2024-03-12 15:43:31.585 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 15:43:54.351 INFO test_login - test_login: ******* OrderLink TC is Passed ******
+2024-03-12 15:44:06.396 INFO test_login - test_login: ******* Verifying Login functionality and Order Link TC001 ******
+2024-03-12 15:44:23.336 INFO test_login - test_login: ******* OrderLink TC is Passed ******
